@@ -2,12 +2,12 @@ Cyber security: Securing data,devices etc.,
 Networks: Medium to communicate
 Hacking: Gaining unaunthorized access
 Ethical hacking: Gaining unaunthorized access with written concern
-Vulnerability: Weakness,possibility of attacks
+Vulnerability: Weakness in an information system that could be exploited by a threat source
 Cyber security tools:
     Hashcat: Password hacking tool
     Bruteforce technique
     Attacks
-    RAT(remote access trojan)
+    RAT(Remote Access Trojan)
     Metasploit
 Implementing security:
      Physical control  
@@ -24,9 +24,11 @@ TCP/UDP:
     The ports are entry gates of a system
     443-https(safe) and 80-http(unsafe)
 Differnce between HTTPS and HTTP
-Block chain:
-Exploit:
-SQL injection:
+Block chain
+Exploit: 
+      A particular attack
+      Exploits system vulnerabilities
+SQL injection
 Session hijacking
 Phishing
 DNS
@@ -58,6 +60,34 @@ CIA(Network Security):
     Confidentiality
     Integrity
     Availability
+Confidentiality:
+Authentication: Verifying one's identity
+To verify one's authentication:
+    Knowledge(Something known) Eg:DOB,Secret questions etc.,
+    Physical(Something you have) Eg:Aadhar,Passport,Phone number etc.,
+    Biometrics(behavioural patterns) Eg:Fingerprints,Physical appearances etc.,
+Authorisation(Access control): Permission to access
+UAC: User Access Control
+Integrity: Originality
+    Safe data transfer-https
+    SSL: Secured Software Layer
+    Encryption: Conversion of clear texts to cipher texts
+Availability: 
+    Eg: ATM availability(demonitization)
+    Firewall
+    Antivirus
+Breach: Loss of control,a person other than an authorised user accesses identifiable information   
+Event: Observable occurance in a network or system
+Incident: Actually or potentially jeopardizes(affects) the CIA of an information system
+Intrusion: 
+    A security event
+Threat: 
+    Event with potential to adversely impact organisational operations
+    High occurance of threat is classfied as high risk
+    Vulnerability + Threat = Risk
+Zero day: A previously unknown system vulnerability with potential of exploitation without risk of detection
+TOE: Target Of Evaluation
+
 
 
 
