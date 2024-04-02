@@ -87,6 +87,16 @@ Threat:
     Vulnerability + Threat = Risk
 Zero day: A previously unknown system vulnerability with potential of exploitation without risk of detection
 TOE: Target Of Evaluation
+IPV4-32 bits 0-9 
+IPV6-128 bits 0-9,A,B,C,D,E,F
+commands: powershell,ipconfig
+Http: port 80
+CIDR: Classless Inter Domain Routing 
+Notepad: To hang someone's system
+@echo off
+start mspaint
+start cmd
+Save in desktop and open
 
 
 
