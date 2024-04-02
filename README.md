@@ -109,6 +109,10 @@ For connecting 2 routers: Serial cables or coaxial
 Router: Transmits packets from one route to another route
 Half duplex: One side packet transmission
 Full duplex: Double side packet transmission
+NIC: Network Interface Card
+MAC: Medium Access Control
+IP address-dynamic
+
 
 
 
