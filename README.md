@@ -89,7 +89,7 @@ Zero day: A previously unknown system vulnerability with potential of exploitati
 TOE: Target Of Evaluation
 IPV4-32 bits 0-9 
 IPV6-128 bits 0-9,A,B,C,D,E,F
-commands: powershell,ipconfig
+Commands: powershell,ipconfig
 Http: port 80
 CIDR: Classless Inter Domain Routing 
 Notepad: To hang someone's system
@@ -97,6 +97,12 @@ Notepad: To hang someone's system
 start mspaint
 start cmd
 Save in desktop and open
+Windows open multiple times and system will hang
+If command given in command prompt doesn't work:
+Environmental variable->System variable->Path->Edit->Select path->Add->New->Save path->Last/->Enter->Ok
+Ping: A tool to test connectivity
+Command: ping mkce.ac.in -n 10
+
 
 
 
