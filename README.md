@@ -102,8 +102,13 @@ If command given in command prompt doesn't work:
 Environmental variable->System variable->Path->Edit->Select path->Add->New->Save path->Last/->Enter->Ok
 Ping: A tool to test connectivity
 Command: ping mkce.ac.in -n 10
-
-
+Help command: ipconfig --help
+Same types of devices: Cross over
+Different types of devices: Staight through
+For connecting 2 routers: Serial cables or coaxial
+Router: Transmits packets from one route to another route
+Half duplex: One side packet transmission
+Full duplex: Double side packet transmission
 
 
 
