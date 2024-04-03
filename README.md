@@ -112,6 +112,9 @@ Full duplex: Double side packet transmission
 NIC: Network Interface Card
 MAC: Medium Access Control
 IP address-dynamic
+DHCP-Dynamic Host Configuration Protocol-default IP address
+
+
 
 
 
