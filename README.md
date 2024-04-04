@@ -137,6 +137,12 @@ File sharing
 python -m http.server 80(default port 80)
 python -m http.server 9999
 other port should be given for running
+echo "Hello World!" > index.html
+website monitoring- SOC analyst(Security Operations Center)
+rm- remove(powershell) 
+dl- delete(command prompt)
+
+
 
 
 
