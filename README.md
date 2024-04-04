@@ -113,6 +113,36 @@ NIC: Network Interface Card
 MAC: Medium Access Control
 IP address-dynamic
 DHCP-Dynamic Host Configuration Protocol-default IP address
+LINUX FUNDAMENTALS:
+windows-command prompt,powershell
+ls for linux dir for windows-read file
+linux commands can be run in powershell
+cd .. backward
+cd directory forward
+where-used to know where a program is installed(command prompt not in powershell)
+cd ../../../ - Fast navigation
+Tab shows all the present directories
+">>" adding contents(append) to files
+more-to read file(cmd) 
+cat-to read file(powershell)
+File extension is important in windows
+notepad .\filename-contents of file will be displayed in notepad
+mkdir works in windows and in linux
+d-directory
+a-attribute file
+mv-move works in linux also
+../ navigates backward directory
+cp-copy
+File sharing
+python -m http.server 80(default port 80)
+python -m http.server 9999
+other port should be given for running
+
+
+
+
+
+
 
 
 
