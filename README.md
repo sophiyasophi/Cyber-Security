@@ -141,6 +141,29 @@ echo "Hello World!" > index.html
 website monitoring- SOC analyst(Security Operations Center)
 rm- remove(powershell) 
 dl- delete(command prompt)
+OSI layers:
+1.Physical-USB,Bluetooth
+2.Datalink-ATM,SLIP,Frame relay,PPP
+3.Network-IPV4,IPV6,ICMP,IGP,IPSec
+4.Transport-TCp,UDP
+5.Session-PPTP,SIP,SAP,NetBIOS
+6.Presentation-SSL,TLS
+7.Application-HTTP,FTP,SMTP
+Wireshark
+Proxy- 
+VPN- encrypt connection between server and client
+RSA AES- Cipher text
+Symmetric Encryption- Single key
+Asymmetric Encryption- Public/Private key
+ip.addr==163.70.138.35(facebook.com)
+Three way handshake:
+SYN
+SYN-ACK
+ACK
+TLS handshake(Transport Layer Security)
+
+
+
 
 
 
