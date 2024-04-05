@@ -150,7 +150,7 @@ OSI layers:
 6.Presentation-SSL,TLS
 7.Application-HTTP,FTP,SMTP
 Wireshark
-Proxy- 
+Proxy- Middleman between client and server
 VPN- encrypt connection between server and client
 RSA AES- Cipher text
 Symmetric Encryption- Single key
@@ -161,11 +161,98 @@ SYN
 SYN-ACK
 ACK
 TLS handshake(Transport Layer Security)
+Request (client)-----> Response(server)----> DB
+HTTP Methods: GET,POST,PUT,OPTIONS,DELETE
+Testing can be done in:
+Production environment- Live websites/web app- Risky testing
+Staging environment- Actual copy of productipon environment
+QA environment- Test build
+SDLC: Software Development Life Cycle
+Response code:
+1xx- Informational messages(changing protocols)
+2xx- OK(success)
+3xx- Redirection
+4xx- Client-side error(404 not found)
+5xx- Server-side error(maintanance,server down)
+Client--->Burp Proxy---->Server
+Tor: darkweb
+Client--->Proxy1---->Proxy2---->Proxy3---->Proxy4---->Proxy5---->Proxy6---->Server-unsafe-different geographical locations-payment in bitcoins
+1Bitcoin=$67000
+Brup suite:
+User agent- browser
+ISO: International Organisation of Standardisation
+cat /etc/apt/sources.list
+nano /etc/apt/sources.list (right click-copy)
+sudo nano /etc/apt/sources.list
+ctrl+shift+c-copy
+ctrl+shift+v-paste
+https://http.kali.org/kali
+^-ctrl
+ctrl+O
+ctrl+X
+q- Quit
+http://www.example.com/index.html
+http://www.example.com/directory1/directory2/filename.html
+Web protocol- http/https
+Domain- Example.com
+
+sudo service apache2 start
+ls/var/ww/html
+ls -l /var/ww/html
+pwd
+http://127.0.0.1/files/index.html
+http://var/www/html/files/index.html
+Linux basic path- /var/www/html
+windows- C:\inetpub\wwwroot
+HTTP/2- HTTPS
+HTTP/1.0,1.1,1.2- HTTP
+GET /v1/tiles HTTP/2
+Host: contile.services.mozilla.com
+https://contile.services.mozilla.com/v1/tiles
+Username Enumeration
+grep- search and extract
+WAF:  Web applicaiom firewall
+WAF + rate limiting
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
 
 
 
