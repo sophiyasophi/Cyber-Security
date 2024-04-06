@@ -213,7 +213,14 @@ Username Enumeration
 grep- search and extract
 WAF:  Web applicaiom firewall
 WAF + rate limiting
-
+Vulnerability Assessment(VA): 
+     Process of identifying,quantifying and prioritizing vulnerabilities within a system,network,application or organization
+     Systematic review of potential weakness that could be exploited by attackers ti compromise CIA of assets
+VA Process:
+     Asset discovery
+     Vulnerability scanning
+     Vulnerability assessment
+     Vulnerability remediation
 
 
 
