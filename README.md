@@ -284,6 +284,10 @@ Top 10 Web Application Security Risks:
     A10:2021-Server-Side Request Forgery 
     Link: https://owasp.org/www-project-top-ten/
     WAF: Web Application Firewall
+    Path traversal/Directory traversal
+    Linux: /etc/passwd
+    Windows: win.ini
+    OS command injection
     
     
 
