@@ -215,15 +215,77 @@ WAF:  Web applicaiom firewall
 WAF + rate limiting
 Vulnerability Assessment(VA): 
      Process of identifying,quantifying and prioritizing vulnerabilities within a system,network,application or organization
-     Systematic review of potential weakness that could be exploited by attackers ti compromise CIA of assets
+     Systematic review of potential weakness that could be exploited by attackers to compromise CIA of assets
 VA Process:
      Asset discovery
      Vulnerability scanning
      Vulnerability assessment
      Vulnerability remediation
-
-
-
+NVD: National Vulnerability Database
+CVSS: Common Vulnerability Scoring System
+Severity ratings:
+     Critical: 9.0-10.0
+     High: 7.0-8.9
+     Medium: 4.0-6.9
+     Low: 0.1-3.9
+Vulnerability scanners:
+     Automated vulnerability scanners
+     Penetration testing(manual)
+Types:
+     Database vulnerability scanner
+     Network vulnerability scanner
+     Web application vulnerability scanner
+     Host based vulnerability scnner
+     API based vulnerability scanner(Application Programming Interface)
+     Cloud based vulnerability scanner
+Policy: 
+Procedure: Step by step process for following policies (GDPR-General Data Production and Regulation)
+Standard: Regulations given by government
+Regulation: 
+True positive: If vulnerability is present shows vulnerability
+True negative: Vulnerability not detected
+False positive: No vulnerability but shows vulnerability
+False negative: No vulnerability shows no vulnerability
+SAST tools: Static application security testing (1 SAST tool important)
+VA methods:
+    Vulnerability scanning
+    Penetration testing
+    Risk assessment
+    Code review
+    Confguration management
+    Patch management
+    Security audits
+    Threat modelling
+CMS: Content Management System(website)
+Penetration testing (5 phases):
+    Information gathering(no.of hosts,routers,protocols etc.,) 
+    Scanning(which version,server)
+    Gaining access
+    Maintaining access(persistence)
+    Clearing tracks(removing digital footprints)
+NDA: Non Disclosure Agreement
+Abstract- Executive summary(defining scope)
+Penetration Testing(PT) types:
+    Internal PT(white box testing)
+    External PT(outside the organisation)
+Zaproxy-kali linux
+Burpsuite,Zaproxy: Port 8080
+Nessus vulnerability scanner
+Top 10 Web Application Security Risks:
+    A01:2021-Broken Access Control 
+    A02:2021-Cryptographic Failures 
+    A03:2021-Injection
+    A04:2021-Insecure Design 
+    A05:2021-Security Misconfiguration
+    A06:2021-Vulnerable and Outdated Components
+    A07:2021-Identification and Authentication Failures
+    A08:2021-Software and Data Integrity Failures 
+    A09:2021-Security Logging and Monitoring Failures
+    A10:2021-Server-Side Request Forgery 
+    Link: https://owasp.org/www-project-top-ten/
+    WAF: Web Application Firewall
+    
+    
 
 
 
