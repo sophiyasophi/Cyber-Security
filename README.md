@@ -290,6 +290,8 @@ Top 10 Web Application Security Risks:
     OS command injection
     ip link set dev ens33 app
     dhclient -v ens33
+    x86/64 - 64 bits
+    
     
 
 
