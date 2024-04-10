@@ -291,6 +291,7 @@ Top 10 Web Application Security Risks:
     ip link set dev ens33 app
     dhclient -v ens33
     x86/64 - 64 bits
+    /opt/splunkforwarder/bin#
     
     
 
