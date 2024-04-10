@@ -292,6 +292,9 @@ Top 10 Web Application Security Risks:
     dhclient -v ens33
     x86/64 - 64 bits
     /opt/splunkforwarder/bin#
+    172.1.42.7
+    ./splunk list forward-server 
+    172.1.42.7:9997
     
     
 
