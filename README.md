@@ -288,7 +288,8 @@ Top 10 Web Application Security Risks:
     Linux: /etc/passwd
     Windows: win.ini
     OS command injection
-    
+    ip link set dev ens33 app
+    dhclient -v ens33
     
 
 
