@@ -306,7 +306,10 @@ NSE: Nmap Scriptting Engine
 sudo netdiscover -r ip address
 export target=192.168.248.1
 nmap $target -p1-65535 -v -min-rate=3000
-    
+nmap $target -p1-65535 -v -min-rate=3000 -oN open_ports.txt
+cat open_ports.txt
+nmap $target -p21,22,80 -A -v -min-rate=3000 -oN open_services.txt
+
     
     
 
