@@ -309,6 +309,15 @@ nmap $target -p1-65535 -v -min-rate=3000
 nmap $target -p1-65535 -v -min-rate=3000 -oN open_ports.txt
 cat open_ports.txt
 nmap $target -p21,22,80 -A -v -min-rate=3000 -oN open_services.txt
+ftp $target
+These tools work on same criteria(to find pages in a directory)
+dirb
+wfuzz
+ffuf
+sudo apt update
+sudo apt install seclists
+sudo updatedb
+
 
     
     
