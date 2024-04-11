@@ -295,6 +295,11 @@ Top 10 Web Application Security Risks:
     172.1.42.7
     ./splunk list forward-server 
     172.1.42.7:9997
+
+    cd ./desktop
+    ip a
+    sudo netdiscover
+    
     
     
 
