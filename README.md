@@ -296,16 +296,16 @@ Top 10 Web Application Security Risks:
     ./splunk list forward-server 
     172.1.42.7:9997
 
-    cd ./desktop
-    ip a
-    sudo netdiscover
-    cat ips
-    export target=ip address
-    NSE: Nmap Scriptting Engine
-    192.168.248.130/24
-    sudo netdiscover -r ip address
-    export target=192.168.248.1
-    nmap $target -p1-65535 -v -min-rate=3000
+cd ./desktop
+ip a
+sudo netdiscover
+cat ips
+export target=ip address
+NSE: Nmap Scriptting Engine
+192.168.248.130/24
+sudo netdiscover -r ip address
+export target=192.168.248.1
+nmap $target -p1-65535 -v -min-rate=3000
     
     
     
