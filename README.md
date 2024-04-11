@@ -299,6 +299,13 @@ Top 10 Web Application Security Risks:
     cd ./desktop
     ip a
     sudo netdiscover
+    cat ips
+    export target=ip address
+    NSE: Nmap Scriptting Engine
+    192.168.248.130/24
+    sudo netdiscover -r ip address
+    export target=192.168.248.1
+    nmap $target -p1-65535 -v -min-rate=3000
     
     
     
