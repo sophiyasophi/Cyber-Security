@@ -328,15 +328,37 @@ OSINT: Open Source Intelligence
 C&C: Command and control centre
 Ddos: Distributed Denial of Services Attacks
 Ransomware
-
-
-
-
-    
-    
-
-
-
+Botnet attacks
+Enumeration: step by step process of extraction
+Hackers-adversory
+IR Team: Incident Response Team
+NIST: National Institute of Standard and Technology
+   Identify
+   Protect
+   Detect
+   Respond
+   Recover
+Preparation
+Detection and analysis
+Containment
+Post incidence
+DLP: Data Loss Prevention
+IPS: Intrusion Prevention Service
+Raspberry py
+WPA2: Low WPA3: Advanced
+Firewall services:
+    Packet filtering
+    Stateful packet inspection
+    Proxying
+    Network Address Translation
+Antivirus and Antimalware software
+HIDS: Host Based Intrusion Detection Sysytem
+NIDS: Network Based Intrusion Detection Sysytem
+MDM: Mobile Device Management
+Antivirus is called end point protection
+CASB: Cloud Access Security Broker 
+Zero trust network access
+Compliance: Confirming a rule such as specification,policy,standard or law
 
 
 
