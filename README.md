@@ -317,6 +317,19 @@ ffuf
 sudo apt update
 sudo apt install seclists
 sudo updatedb
+Why cyber security: To protect sensitive information,cyber threats are constantly involving without proper security measures
+Annual state of application security report,2023
+Check point,2023
+Live cyber threats (threatmap.checkpoint.com),radware,bitdefender
+Types of foot printing (Reconnaissance):
+     Active
+     Passive
+OSINT: Open Source Intelligence
+C&C: Command and control centre
+Ddos: Distributed Denial of Services Attacks
+Ransomware
+
+
 
 
     
