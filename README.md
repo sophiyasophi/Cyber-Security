@@ -377,10 +377,14 @@ Cloud working:
   Scalability
   Cost effective
 MySQl:3306
-MsSQL:1433
+MySQL:1433
 VMware:902
 Oracle database:2483/2484
-
+Factors for controlling risks:
+  Risk acceptance
+  Risk avoidance
+  Risk mitigation
+  Risk transfer
 
 
 
