@@ -359,7 +359,27 @@ Antivirus is called end point protection
 CASB: Cloud Access Security Broker 
 Zero trust network access
 Compliance: Confirming a rule such as specification,policy,standard or law
-
+Cisco WSA: secure Web Appliance
+  Web security manager
+  Web security monitor
+  Logging
+  Integrated authentication
+  Multiple deployment modes
+Cloud service models:
+  SaaS(Software as a service)
+  PaaS(Platform as a service)
+  IaaS(Infrastructure as a service)
+PPU: Pay Per Usage
+Cloud working:
+  Data storage
+  Access anywhere
+  Virtualization
+  Scalability
+  Cost effective
+MySQl:3306
+MsSQL:1433
+VMware:902
+Oracle database:2483/2484
 
 
 
