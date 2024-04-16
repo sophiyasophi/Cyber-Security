@@ -385,8 +385,16 @@ Factors for controlling risks:
   Risk avoidance
   Risk mitigation
   Risk transfer
-
-
+Regulatory compilance in cloud security:
+  GDPR(Genereal Data Protection Regulation)
+  HIPAA(Health Insurance Portability and Accountability)-only in US
+  PCIDSS(Payment Card Industry Data Security Standard)
+  ISO 27001
+  ISMS(Information Security Management Systems)
+  CMM(Capability Maturity Models)
+DAC(Discretionary Access Control)
+RAC(Role-based Access Control)
+MAC(Mandatory Access Control)
 
 
 
