@@ -395,7 +395,9 @@ Regulatory compilance in cloud security:
 DAC(Discretionary Access Control)
 RAC(Role-based Access Control)
 MAC(Mandatory Access Control)
-
+SOP: Standard Operating Procedure
+SLA: Service Level Agreement
+MITRE Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK)
 
 
 
