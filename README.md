@@ -398,7 +398,16 @@ MAC(Mandatory Access Control)
 SOP: Standard Operating Procedure
 SLA: Service Level Agreement
 MITRE Adversarial Tactics, Techniques, and Common Knowledge (ATT&CK)
-
+60 gb -> new -> apply
+20000 -> apply -> ok
+disk partition --> Delete all(c drive)
+60 gb-> new-> apply
+server manager ->
+dashboard,local server,all servers,files and storage services -> domain controller
+add roles and features role base feature
+server roles activ directory domain services DNS server
+exclamation mark
+promote this server to domain controller
 
 
 
