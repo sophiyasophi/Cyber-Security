@@ -408,6 +408,11 @@ add roles and features role base feature
 server roles activ directory domain services DNS server
 exclamation mark
 promote this server to domain controller
+add a new forest
+Root domain -> team name( lower case).local
+windows 2016
+no checkbox,next
+command prompt ipconfig
 
 
 
