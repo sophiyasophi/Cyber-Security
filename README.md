@@ -413,6 +413,7 @@ Root domain -> team name( lower case).local
 windows 2016
 no checkbox,next
 command prompt ipconfig
+firewall advanced settings ,icmp port,enable all icmp
 
 
 
