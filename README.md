@@ -440,6 +440,11 @@ write=2
 execute=1
 read,write,execute=7
 cp -/Downloads/rockyou.txt -/Desktop
+curl
+wget https://ww.google.com html
+$-limited
+#-previleged
+su - username(switch user)
 
 
 
