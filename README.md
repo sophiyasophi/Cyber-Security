@@ -415,6 +415,20 @@ no checkbox,next
 command prompt ipconfig
 firewall advanced settings ,icmp port,enable all icmp
 192.168.248.131
+Cyber kill chain:
+REcon --> OSINT (OPEN SOURCE INTELLIGENCE)
+Weaponisation --> Malware
+Delivery --> Covers malware victim's system
+Exploitation --> Breach Vulnerabilities
+Installation
+Command & Control
+Action as Objectives (copying the files)
+Adversary --> Attackers
+layer 4 not a clr text
+layer 7 predominat (6,5 Layer)
+3 different tools
+--> online Password cracking  -  Brupsuite/Hydra(does n't bruteforce attack)
+    offline Password Cracking - CPU/GPU John/Hashcat
 
 
 
