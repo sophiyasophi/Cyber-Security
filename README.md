@@ -438,6 +438,9 @@ chmod 777 rev.php
 read=4
 write=2
 execute=1
+read,write,execute=7
+cp -/Downloads/rockyou.txt -/Desktop
+
 
 
 
