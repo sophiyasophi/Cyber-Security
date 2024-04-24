@@ -429,6 +429,17 @@ layer 7 predominat (6,5 Layer)
 3 different tools
 --> online Password cracking  -  Brupsuite/Hydra(does n't bruteforce attack)
     offline Password Cracking - CPU/GPU John/Hashcat
+sudo openvpn tryhackme.ovpn
+ftp 10.10.157.0
+ftp> delete shell.php
+delete index.html
+ftp> put rev.php
+chmod 777 rev.php
+read=4
+write=2
+execute=1
+
+
 
 
 
