@@ -1,4 +1,4 @@
-Cyber security: Securing data,devices etc.,
+    Cyber security: Securing data,devices etc.,
 Networks: Medium to communicate
 Hacking: Gaining unaunthorized access
 Ethical hacking: Gaining unaunthorized access with written concern
@@ -455,7 +455,7 @@ nmap ip -p1-65535 --min-rate=3000 -v -oN open_ports.txt
 nmap ip -p22,80,135,139,445 -A --min-rate=3000 -v -oN open-services.txt
 smbclient -l //10.10.48.242/
 cat enter.txt
-
+search exploit-searchspolit
 
 
 
