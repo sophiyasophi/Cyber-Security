@@ -441,10 +441,12 @@ execute=1
 read,write,execute=7
 cp -/Downloads/rockyou.txt -/Desktop
 curl
-wget https://ww.google.com html
+wget https://www.google.com html
 $-limited
 #-previleged
 su - username(switch user)
+ghidra-install in kali
+
 
 
 
