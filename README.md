@@ -448,9 +448,13 @@ su - username(switch user)
 ghidra-install in kali
 Veracrypt
 3A's: Acquire,Authenticate,Analyse
-IR: Incient Response
+IR: Incient Response(4W1H)
 DR: Disaster Recovery
 BC: Business Continuity
+nmap ip -p1-65535 --min-rate=3000 -v -oN open_ports.txt
+nmap ip -p22,80,135,139,445 -A --min-rate=3000 -v -oN open-services.txt
+smbclient -l //10.10.48.242/
+cat enter.txt
 
 
 
