@@ -446,6 +446,12 @@ $-limited
 #-previleged
 su - username(switch user)
 ghidra-install in kali
+Veracrypt
+3A's: Acquire,Authenticate,Analyse
+IR: Incient Response
+DR: Disaster Recovery
+BC: Business Continuity
+
 
 
 
