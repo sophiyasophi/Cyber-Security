@@ -1,4 +1,4 @@
-    Cyber security: Securing data,devices etc.,
+Cyber security: Securing data,devices etc.,
 Networks: Medium to communicate
 Hacking: Gaining unaunthorized access
 Ethical hacking: Gaining unaunthorized access with written concern
